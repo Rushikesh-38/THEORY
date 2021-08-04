@@ -1,0 +1,44 @@
+Execute the below code and write your description in txt file
+typeof(1)
+typeof(1.1)
+typeof('1.1')
+typeof(true)
+typeof(null)
+typeof(undefined)
+typeof([])
+typeof({})
+typeof(NaN)
+>>
+
+console.log (typeof 1);
+>>output is number
+console.log (typeof 1.1);
+>>output is float
+console.log (typeof'1.1');
+>>output is string
+console.log (typeof true);
+>>Output is boolean
+console.log (typeof null);
+>>Output is object
+console.log (typeof undefined);
+>>Output is undefined
+console.log (typeof []);
+>>Output is object
+console.log (typeof {});
+>>Output is object
+console.log (typeof NaN);
+>>Output is nUumber
+
+//String type
+JavaScript's String type is used to represent textual data. It is a set of "elements" of 16-bit unsigned integer values. Each element in the String occupies a position in the String. The first element is at index 0, the next at index 1, and so on. The length of a String is the number of elements in it.
+
+//Boolean type
+Boolean represents a logical entity and can have two values: true and false. See Boolean and Boolean for more details.
+
+//Null type
+The Null type has exactly one value: null. 
+
+//Undefined type
+A variable that has not been assigned a value has the value undefined.
+//Number Type
+The number type has only one integer with two representations positive & negative.
